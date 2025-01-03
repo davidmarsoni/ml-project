@@ -1,4 +1,4 @@
-# Mini-Project 
+# Mini-Project
 
 ## General information
 
